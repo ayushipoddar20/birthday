@@ -144,8 +144,8 @@ body {{
         <div class="envelope-flap"></div>
         <div class="envelope-body"></div>
         <div class="message">
-            🎉 Happy Birthday, <b>{name}</b>!<br><br>
-            Wishing you laughter, love,<br> and lots of sweet memories! 🎂🎈
+            🎉 HAPPY BIRTHDAY BUDDHU \N I LOVE YOU SO MUCH BABY, <b>{name}</b>!<br><br>
+            I know you're not very excited but baby its your birthday, so smile and enjoy your day....\n I wish i could be there with you, but nvm I'm sending my love and wish to you digitally, lol...\n Thank you for being there for me... Your are so so so special, I can't tell you.... \n I LOVE YOU SO MUVCH.... 🎂🎈
         </div>
     </div>
 </div>
